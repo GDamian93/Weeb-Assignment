@@ -7,8 +7,7 @@
  *  This CSS file contains styles for the HTML elements used in Assignment 3.
  */
 
-/* Head 1 Styles */
-
+/*Styles for header*/
 header {
     color: rgb(255, 255, 255);
     text-align: center;
@@ -17,15 +16,8 @@ header {
     padding-bottom: 0%;
     margin-bottom: 0px;
 }
-/*
-#introduction {
-    color: white;
-    text-align: center;
-    background: rgb(5, 137, 126);
-    padding-bottom: 20px;
-    margin: 0px;
-}
-*/
+
+/*Styles for navigation links*/
 #navigation {
     background: #e9eae7;
     color: white;
@@ -34,16 +26,13 @@ header {
     text-align: left;
 }
 
-body {
-
-    background-color: #ffffff;
-}
-
+/*Styles for tables*/
 table {
     border: 5px solid #242424;
     margin-bottom: 10px;
 }
 
+/*Styles for table headers and data cells*/
 th, td {
     background: rgb(148, 148, 148);
     color: white;
@@ -52,11 +41,13 @@ th, td {
     padding: 8px;
 }
 
+/*Styles for table headers*/
 th {
     background: rgb(227, 212, 2);
     color: rgb(255, 255, 255);
 }
 
+/*Styles for footer*/
 footer {
     background: rgb(5, 137, 126);
     color: rgb(255, 255, 255);
