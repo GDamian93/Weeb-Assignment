@@ -1,0 +1,65 @@
+/**
+ * Assignment 3 - Web Development
+ * Author: Garcia Damian
+ * Date: 2025-08-22
+ *
+ * Description:
+ *  This CSS file contains styles for the HTML elements used in Assignment 3.
+ */
+
+/* Head 1 Styles */
+
+header {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background: rgb(5, 137, 126);
+    padding: 5px;
+    padding-bottom: 0%;
+    margin-bottom: 0px;
+}
+/*
+#introduction {
+    color: white;
+    text-align: center;
+    background: rgb(5, 137, 126);
+    padding-bottom: 20px;
+    margin: 0px;
+}
+*/
+#navigation {
+    background: #e9eae7;
+    color: white;
+    font-size: 1.2em;
+    margin: -5px;
+    text-align: left;
+}
+
+body {
+
+    background-color: #ffffff;
+}
+
+table {
+    border: 5px solid #242424;
+    margin-bottom: 10px;
+}
+
+th, td {
+    background: rgb(148, 148, 148);
+    color: white;
+    text-align: left;
+    border: 1px solid #919191;
+    padding: 8px;
+}
+
+th {
+    background: rgb(227, 212, 2);
+    color: rgb(255, 255, 255);
+}
+
+footer {
+    background: rgb(5, 137, 126);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 10px 0;
+}
